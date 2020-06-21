@@ -1,8 +1,0 @@
-
-language: php
-
-script: mvn install:install-file "-Dfile=calculadora.php" "-DgroupId=com.calculadora" "-DartifactId=calculadora" "-Dversion=0.98.4" "-Dpackaging=php" "-DgeneratePom=true"
-
-
-
-    
